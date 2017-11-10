@@ -1,1 +1,2 @@
-Demo repository
+# Demo repository
+Example in Markdown
