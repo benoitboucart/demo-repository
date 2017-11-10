@@ -1,0 +1,10 @@
+{
+  "name": "gitintro",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Benoît Boucart <benoit@webbb.be>",
+  "license": "MIT",
+  "devDependencies": {
+    "webpack": "^3.8.1"
+  }
+}
